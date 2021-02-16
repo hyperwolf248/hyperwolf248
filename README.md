@@ -26,7 +26,6 @@
 ### Tools and Frameworks
 
 <img height="32" width="32" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://img.icons8.com/color/452/fivem.png" />&nbsp;
 
 ### Operating Systems
 
@@ -51,8 +50,7 @@ class hyperwolf248:
         self.education = {
             "Programming": (
                 ["Python & Javascript", "Self Education"],
-                ["Linux Usage", "Self Education"],
-                ["Pentesting", "Hack The Box"]
+                ["Linux Usage", "Self Education"]
             ),
             "B.E": "RV College of Engineering",
         }
