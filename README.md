@@ -58,7 +58,6 @@ class hyperwolf248:
         }
         self.education = {
             "Programming": (
-                ["IT and Data Security", "Microsoft's Sans Park"]
                 ["Python & Javascript", "Self Education"],
                 ["Linux Usage", "Self Education"],
                 ["Pentesting", "Hack The Box"]
