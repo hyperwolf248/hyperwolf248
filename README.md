@@ -47,15 +47,14 @@
 ## <img src="mario.gif" width="50px"/> A little more about me...
 
 ```py
-class YonLiud:
+class hyperwolf248:
     def __init__(self):
-        self.username = 'YonLiud'
-        self.age = 17
-        self.name = 'Yonatan Mark Liudmirsky'
+        self.username = 'hyperwolf248'
+        self.age = 21
+        self.name = 'Keerthi Gowda'
         self.languages = {
             "English":  "Intermediate",
-            "Hebrew":   "Native language",
-            "Russian":  "Native language"
+            "Hindi":   "Native language"
         }
         self.education = {
             "Programming": (
@@ -64,12 +63,12 @@ class YonLiud:
                 ["Linux Usage", "Self Education"],
                 ["Pentesting", "Hack The Box"]
             ),
-            "Physics": "Weizmann Institute of Science",
+            "B.E": "RV College of Engineering",
         }
     def __str__(self):
         return self.name
 if __name__ == '__main__':
-    me = YonLiud()
+    me = hyperwolf248()
 ```
 
 
@@ -77,7 +76,7 @@ if __name__ == '__main__':
 
 <p align="center">
   <a href="https://github.com/YonLiud">
-    <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&hide_border=true&show_icons=true" alt="YonLiud's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&hide_border=true&show_icons=true" alt="hyperwolf248's GitHub stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonLiud&hide_border=true&layout=compact" alt="YonLiud's GitHub languages">
   </a>
 </p>
