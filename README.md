@@ -76,7 +76,7 @@ if __name__ == '__main__':
 
 <p align="center">
   <a href="https://github.com/hyperwolf248">
-    <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&hide_border=true&show_icons=true" alt="hyperwolf248's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonLiud&hide_border=true&layout=compact" alt="YonLiud's GitHub languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=hyperwolf248&hide_border=true&show_icons=true" alt="hyperwolf248's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperwolf248&hide_border=true&layout=compact" alt="hyperwolf248's GitHub languages">
   </a>
 </p>
