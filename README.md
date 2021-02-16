@@ -2,7 +2,7 @@
 
 <p align="left">
 
-# Hi, I'm Yon! <img src="wave.gif" width="50px"/>
+# Hi, I'm hyperwolf248! <img src="wave.gif" width="50px"/>
 
 
 
@@ -75,7 +75,7 @@ if __name__ == '__main__':
 <hr>
 
 <p align="center">
-  <a href="https://github.com/YonLiud">
+  <a href="https://github.com/hyperwolf248">
     <img src="https://github-readme-stats.vercel.app/api?username=YonLiud&hide_border=true&show_icons=true" alt="hyperwolf248's GitHub stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonLiud&hide_border=true&layout=compact" alt="YonLiud's GitHub languages">
   </a>
