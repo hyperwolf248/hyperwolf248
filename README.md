@@ -16,9 +16,6 @@
 
 <img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />&nbsp;
 
 ### Database Systems
@@ -28,8 +25,6 @@
 
 ### Tools and Frameworks
 
-<img height="32" width="32" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
