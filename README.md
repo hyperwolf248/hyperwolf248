@@ -30,7 +30,7 @@
 <img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;
 
 <p align="center">
-    <img align="center" width="500" height="500" src="comp.gif">
+    <img align="center" width="500" height="500" src="poster-76.gif">
 </p>
 
 <hr>
