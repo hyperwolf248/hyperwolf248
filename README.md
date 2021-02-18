@@ -2,13 +2,13 @@
 
 <p align="left">
 
-# Hi, I'm hyperwolf248! <img src="wave.gif" width="50px"/>
+# Hi, I'm Keerthi Gowda! <img src="wave.gif" width="50px"/>
 
 ## I'm a Student and a Data Science enthusiast!
 
 - 🌱 I’m currently learning Deep learning
-- 👯 I’m looking to collaborate on PySpark
-- 🤔 I’m looking for help with Data Engineering stuff
+- 👯 I’m looking to collaborate on TensorFlow
+- 🤔 I’m looking for help with Data Analysis
 - 💬 Ask me about Python
 
 <img align="right" width="200" height="200" src="comp.gif">
@@ -23,76 +23,17 @@
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/scala.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/plot_ly-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/databricks.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/metabase.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/apple_xcode.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/docker-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/git.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/linux-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/apache_hadoop-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/cloudera-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/gdal-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/redis-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/mongodb-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/sqlite-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/mysql-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/postgresql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/wordpress-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/surgesh-ar21.svg"> </code>
-</p>
-
-###  <code> <img height="70" src="https://github.com/hyperwolf248/-/blob/main/resource/google_cloud-ar21.svg"> </code>
-<p align="Center">
-<code><img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/google_appengine-ar21.svg"> </code>
+<code> <img height="70" src="https://github.com/hyperwolf248/-/blob/main/resource/google_cloud-ar21.svg"> </code>
 <code><img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/google_maps.svg"> </code>
 <code><img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/google_bigquery.svg"> </code>
-<code><img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/google_admob.svg"> </code>
-
-</p>
-
-### <code> <img height="70" src="https://github.com/hyperwolf248/-/blob/main/resource/amazon_aws-ar21.svg"> </code>
-
-<p align="center">
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/ec2.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/emr.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/athena.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/c9.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/lambda.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/loadBalancer.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/rds.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/redis.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/redshift.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/sagemaker.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/rekognition.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/route53.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/s3.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/sns.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/sqs.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/vpc.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/cloudfront.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/cw.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/apigateway.svg"> </code>
-<code> <img height="80" src="https://github.com/hyperwolf248/-/blob/main/resource/awsN/lex.svg"> </code>
-
-</p>
-
-## My Tech Skills:
-
-### Programming Languages
-
-<img height="32" width="32" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />&nbsp;
-
-### Database Systems
-
-<img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />&nbsp;
-
-### Operating Systems
-
-<img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;
+<code> <img height="70" src="https://github.com/hyperwolf248/-/blob/main/resource/amazon_aws-ar21.svg"> </code>
 
 ### 🛠 Other Softwares I Use : 
 
