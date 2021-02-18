@@ -5,6 +5,7 @@
 # Hi, I'm hyperwolf248! <img src="wave.gif" width="50px"/>
 
 
+<img align="right" width="200" height="200" src="poster-76.gif">
 
 
 </p>
