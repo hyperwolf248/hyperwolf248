@@ -5,9 +5,7 @@
 # Hi, I'm hyperwolf248! <img src="wave.gif" width="50px"/>
 
 
-<img align="right" width="200" height="200" src="poster-76.gif">
-
-<img align="center" width="500" height="500" src="comp.gif">
+<img align="right" width="200" height="200" src="comp.gif">
 
 </p>
 
@@ -29,7 +27,11 @@
 
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;    
+<img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;
+
+<p align="center">
+    <img align="center" width="500" height="500" src="comp.gif">
+</p>
 
 <hr>
 <!--START_SECTION:waka-->
