@@ -6,10 +6,10 @@
 
 
 <img align="right" width="200" height="200" src="poster-76.gif">
-
+<img align="right" width="200" height="200" src="comp.gif">
 
 </p>
-<img align="right" width="200" height="200" src="comp.gif">
+
 
 ## My Tech Skills:
 
