@@ -6,11 +6,8 @@
 
 
 <img align="right" width="200" height="200" src="poster-76.gif">
-</p>
 
-<p align="center">
-
-<img src="comp.gif">
+<img align="center" width="500" height="500" src="comp.gif">
 
 </p>
 
