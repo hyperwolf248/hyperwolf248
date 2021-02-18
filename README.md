@@ -39,8 +39,9 @@
 <br />
 
 
-### How's life
+
 <p>
+    ### How's life
     <img align="right" width="300" height="300" src="life_balance.gif">
 </p>
 
