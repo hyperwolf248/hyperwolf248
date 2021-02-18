@@ -36,6 +36,8 @@
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/220px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> </a>
 
+
+
 <p align="right">
     <img align="right" width="300" height="300" src="life_balance.gif">
 </p>
