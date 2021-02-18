@@ -29,8 +29,8 @@
 <img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;
 
-<p align="center">
-    <img align="center" width="200" height="200" src="life_balance.gif">
+<p align="right">
+    <img align="right" width="200" height="200" src="life_balance.gif">
 </p>
 
 <hr>
