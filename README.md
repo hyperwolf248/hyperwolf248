@@ -38,10 +38,7 @@
 
 <br />
 
-<p>
-    <br />
-    <img align="right" width="300" height="300" src="life_balance.gif">
-</p>
+
 
 <hr>
 <!--START_SECTION:waka-->
@@ -61,6 +58,10 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
+
+<p>
+    <img align="right" width="300" height="300" src="life_balance.gif">
+</p>
 
 ## <img src="mario.gif" width="50px"/> A little more about me...
 
