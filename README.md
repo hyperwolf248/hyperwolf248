@@ -4,6 +4,7 @@
 
 # Hi, I'm hyperwolf248! <img src="wave.gif" width="50px"/>
 
+## I'm a Student and a Data Science enthusiast!
 
 <img align="right" width="200" height="200" src="comp.gif">
 
