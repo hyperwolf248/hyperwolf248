@@ -20,9 +20,6 @@
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/python-icon.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/dj.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/jp.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/scala.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/plot_ly-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/databricks.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/git.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/linux-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/apache_hadoop-ar21.svg"> </code>
@@ -31,8 +28,6 @@
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/mysql-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/postgresql-ar21.svg"> </code>
 <code> <img height="70" src="https://github.com/hyperwolf248/-/blob/main/resource/google_cloud-ar21.svg"> </code>
-<code><img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/google_maps.svg"> </code>
-<code><img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/google_bigquery.svg"> </code>
 <code> <img height="70" src="https://github.com/hyperwolf248/-/blob/main/resource/amazon_aws-ar21.svg"> </code>
 
 ### 🛠 Other Softwares I Use : 
