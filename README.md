@@ -32,35 +32,14 @@
 
 <hr>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
-
-```text
-🌞 Morning    147 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-🌆 Daytime    613 commits    █████████░░░░░░░░░░░░░░░░   36.91% 
-🌃 Evening    553 commits    ████████░░░░░░░░░░░░░░░░░   33.29% 
-🌙 Night      348 commits    █████░░░░░░░░░░░░░░░░░░░░   20.95%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       371 commits    █████░░░░░░░░░░░░░░░░░░░░   22.34% 
-Tuesday      276 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
-Wednesday    297 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
-Thursday     167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
-Friday       206 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-Saturday     193 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-Sunday       151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: IST
 
 💬 Programming Languages: 
 No Activity Tracked This Week
