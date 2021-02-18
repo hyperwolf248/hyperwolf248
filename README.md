@@ -14,7 +14,8 @@
 <img align="right" width="200" height="200" src="comp.gif">
 
 </p>
-### Spotify Playing 🎧
+
+Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/n1wa4rxbrwcjw8bt407tcisx3)
 
