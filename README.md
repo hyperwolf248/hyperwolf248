@@ -45,17 +45,16 @@
 
 **I'm a Night 🦉** 
 
+<p>
+    <img align="right" width="300" height="300" src="life_balance.gif">
+</p>
+
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: IST
-```
-<p>
-    <img align="right" width="300" height="300" src="life_balance.gif">
-</p>
 
-```
 💬 Programming Languages: 
 No Activity Tracked This Week
 
