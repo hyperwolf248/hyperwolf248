@@ -40,8 +40,9 @@
 
 
 ### How's life
+<p>
     <img align="right" width="300" height="300" src="life_balance.gif">
-
+</p>
 
 <hr>
 <!--START_SECTION:waka-->
