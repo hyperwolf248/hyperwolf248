@@ -38,10 +38,8 @@
 
 <br />
 
-
-
 <p>
-    ### How's life
+    <br />
     <img align="right" width="300" height="300" src="life_balance.gif">
 </p>
 
