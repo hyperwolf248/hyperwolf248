@@ -30,7 +30,7 @@
 <img height="32" width="32" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;
 
 <p align="right">
-    <img align="right" width="200" height="200" src="life_balance.gif">
+    <img align="right" width="400" height="400" src="life_balance.gif">
 </p>
 
 <hr>
